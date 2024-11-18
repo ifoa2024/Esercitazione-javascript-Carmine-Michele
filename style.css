@@ -1,0 +1,21 @@
+.border {
+    border: 5px solid blue;
+}
+
+.bg-lime {
+    background-color: lime;
+}
+
+#section-article {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+#section-article article {
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: aquamarine;
+}
